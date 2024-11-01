@@ -1,0 +1,39 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ /* ================== Start To Style The Back-end Admin Are ============ */
+
+.wrapper.users-list-admin {
+    padding:10px;
+}
+
+.wrapper.users-list-admin h1 {
+    font-size:30px;
+    margin-bottom: 50px;
+}
+.wrapper.users-list-admin h2 {
+    font-size:20px;
+    text-transform: capitalize
+}
+.wrapper.users-list-admin .users-list-offers {
+    margin-bottom: 50px
+}
+
+.wrapper.users-list-admin .users-list-way {
+    margin-bottom: 50px
+}
+
+.wrapper.users-list-admin ul.users-list li {
+    font-size:20px !important;
+}
+
+.wrapper.users-list-admin .show-users a {
+    background-color: #ca4a1f;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ /* ================== End To Style The Back-end Admin Are ============ */
